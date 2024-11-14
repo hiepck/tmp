@@ -1,0 +1,9 @@
+/.git/COMMIT_EDITMSG
+/.git/description
+/.git/HEAD
+/.git/config
+/.git/index
+/.git/info/exclude
+/.git/logs/HEAD
+/.git/logs/refs/heads/master
+/.git/refs/heads/master
