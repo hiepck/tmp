@@ -1,26 +1,24 @@
-[
-    {
-        "about": "Bob Ross and his Imaginary friend",
-        "url": "https://jpeg.org/images/jpeg-home.jpg"
-    },
-    {
-        "about": "Samuel L Jackson as Nick Furry, Secret Invasion's intro",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/JPEG_example_flower.jpg"
-    },
-    {
-        "about": "Artificial Nightmare",
-        "url": "https://cdna.artstation.com/p/assets/images/images/048/751/480/large/artificial-nightmares-001-art-scale-4-00x.jpg?1650855187"
-    },
-    {
-        "about": "Lemme do it for you - Not Van Gogh",
-        "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/47e45547bca943d1f14b998872d33fe2.jpg"
-    },
-    {
-        "about": "AI generated picture won a prize and artists are loose their mind ",
-        "url": "https://static01.nyt.com/images/2022/09/01/business/00roose-1/merlin_212276709_3104aef5-3dc4-4288-bb44-9e5624db0b37-superJumbo.jpg"
-    },
-    {
-        "about": "Promt: handshaking job",
-        "url": "https://aitoolsgate.com/wp-content/uploads/2023/06/DreamShaper_v5_A_Photo_of_Hands_Hundreds_of_Handshaking_realis_0.jpg"
-    }
-]
+{
+    "about": "Bob Ross and his Imaginary friend",
+    "url": "https://jpeg.org/images/jpeg-home.jpg"
+},
+{
+    "about": "Samuel L Jackson as Nick Furry, Secret Invasion's intro",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/JPEG_example_flower.jpg"
+},
+{
+    "about": "Artificial Nightmare",
+    "url": "https://cdna.artstation.com/p/assets/images/images/048/751/480/large/artificial-nightmares-001-art-scale-4-00x.jpg?1650855187"
+},
+{
+    "about": "Lemme do it for you - Not Van Gogh",
+    "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/47e45547bca943d1f14b998872d33fe2.jpg"
+},
+{
+    "about": "AI generated picture won a prize and artists are loose their mind ",
+    "url": "https://static01.nyt.com/images/2022/09/01/business/00roose-1/merlin_212276709_3104aef5-3dc4-4288-bb44-9e5624db0b37-superJumbo.jpg"
+},
+{
+    "about": "Promt: handshaking job",
+    "url": "https://aitoolsgate.com/wp-content/uploads/2023/06/DreamShaper_v5_A_Photo_of_Hands_Hundreds_of_Handshaking_realis_0.jpg"
+}
